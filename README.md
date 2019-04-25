@@ -1,6 +1,6 @@
 # mimic-laravel-framework-mvc
 
-this is a humble trial to make a clone of laravel MVC framework , for education purposes and to strengthen my skills
+this is a humble trial to make a clone of laravel MVC framework , for education purposes and to strengthen programming skills
 
 till now I managed to finish the (model) part , and parts of the controller part .
 
